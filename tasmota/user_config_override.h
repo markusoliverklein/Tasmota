@@ -1,1 +1,9 @@
+#ifndef _USER_CONFIG_OVERRIDE_H_
+#define _USER_CONFIG_OVERRIDE_H_
+
+#ifndef USE_MODBUS_BRIDGE
+#define USE_MODBUS_BRIDGE
+#endif
+
+#endif // _USER_CONFIG_OVERRIDE_H_
 
